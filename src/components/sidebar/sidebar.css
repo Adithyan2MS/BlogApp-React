@@ -37,12 +37,17 @@
     list-style: none;
     margin-bottom: 30px;
 }
-
+.sidebarImg{
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+}
 .sidebarListItem{
     display: inline-block;
     width: 50%;
     margin-top: 15px;
     cursor: pointer;
+    margin-left: 10px;
 }
 .sidebarSocial{
     margin-bottom: 15px;
